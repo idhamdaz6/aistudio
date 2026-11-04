@@ -1,0 +1,6 @@
+{
+  "name": "SuaraKita - Indonesian AI Text-to-Speech Studio",
+  "description": "Studio Text-to-Speech Bahasa Indonesia ekspresif ditenagai Gemini AI dengan pilihan gender, ragam mood, penyesuaian kecepatan, dan ekspor audio MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
